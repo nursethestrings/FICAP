@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## This is a respository of work I completed while a nursing student at the University of Pennsylvania.
 
-You can use the [editor on GitHub](https://github.com/nursethestrings/FICAP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+While there I worked as an office assistant for the Firearm Injury Center at Penn (FICAP)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Public Presentation
 
-### Markdown
+[Firearm Injury in the United States public presentation](http://coastalwatters.net/FICAP/March21.pptx)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Where are Nurses in the Firearm Debate?
 
-```markdown
-Syntax highlighted code block
+[Link to Paper](http://coastalwatters.net/FICAP/WHERE_R_NURSESrevised.doc)
 
-# Header 1
-## Header 2
-### Header 3
+### Graphs 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nursethestrings/FICAP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Raw Data](https://github.com/nursethestrings/FICAP/tree/master/Graphs)
