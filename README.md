@@ -1,6 +1,11 @@
-## This is a respository of work I completed while a nursing student at the University of Pennsylvania.
+## A respository of work  
+completed while a nursing student at the University of Pennsylvania.
 
-While there I worked as an office assistant for the Firearm Injury Center at Penn (FICAP)
+```
+While working as an office assistant, I also learned to query
+public health databases as well as integrate trauma research 
+into my own nursing studies
+```
 
 ### Public Presentation
 
